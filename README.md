@@ -1,9 +1,9 @@
-# particle-simulation-playground
-Particle Simulation Playground: Exploring Random Motion, Interacting Bodies, and Orbital Physics
+# Exploring Dynamic Systems
+Random Motion, Interacting Bodies, and Orbital Physics
 
 ## Motivation
 
-This mini-project was developed as a way to explore some of the principles of interacting systems using Numpy & Matplotlib. I'm sharing the notebook in hopes that others will find it semi-useful and/or educational. Feel free to explore, experiment, and have fun with the code!
+This mini-project was developed as a fun way to explore some of the basic principles of interacting systems using Numpy & Matplotlib. The repo is public in the hopes that someone out there finds value in the notebook. Feel free to experiment and play with the code!
 
 ## Overview
 
