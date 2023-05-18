@@ -9,17 +9,20 @@ This mini-project was developed as a way to explore some of the principles of in
 
 The notebook includes the following:
 
-1. Random Particles: This demonstrates the motion of particles in a 2d space. Offers an illustration of a world where particles are independent of one another. 
+### 1. Random Particles
+This model illustrates the motion of objects in a 2d space, where all particles are independent of one another. 
 
 <img src="animations/ani1.gif" alt="Particles in Motion" width="500">
 
-2. Orbital Physics: Newton's Law of Gravitation is used to simulate the physics of interacting bodies. With this model, we can begin to understand the complex dynamics of systems in space.
+### 2. Orbital Physics
+Newton's Law of Gravitation is used to simulate the physics of interacting bodies. This model allows us to gain insights into the complexity of dynamic systems.
 
-<img src="animations/ani2a.gif" alt="Orbital Physics A" width="500"><img src="animations/ani2b.gif" alt="Orbital Physics B" width="500">
+<img src="animations/ani2a.gif" alt="Orbital Physics A" width="800"><img src="animations/ani2b.gif" alt="Orbital Physics B" width="800">
 
-3. Milky Way: This model combines the previous concepts to simulate the orbital physics of our solar system. Using the principles of physics and the properties of each planet (mass, size, position, velocity) we can explore the dynamics of celestial bodies.
+### 3. Milky Way Sim
+This model combines the previous concepts to simulate the orbital physics of our solar system. Using the principles of physics and the properties of each planet (mass, size, position, velocity) we explore the dynamics of celestial bodies.
 
-<img src="animations/ani3.gif" alt="Milky Way" width="500">
+<img src="animations/ani3.gif" alt="Milky Way" width="800">
 
 ## Getting Started
 
