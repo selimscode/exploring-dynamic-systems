@@ -1,4 +1,4 @@
-# Exploring Dynamic Systems
+# Exploring the Physics of Dynamic Systems
 Random Motion, Interacting Bodies, and Orbital Physics
 
 ## Motivation
