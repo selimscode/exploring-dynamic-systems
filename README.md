@@ -10,7 +10,7 @@ This mini-project was developed as a way to explore some of the principles of in
 The notebook includes the following:
 
 1. Random Particles: This demonstrates the motion of particles in a 2d space. Offers an illustration of a world where particles are independent of one another.
-<img src="animations/ani1.gif" alt="Particles in Motion" width="500" style="display: block; margin: 0 auto">
+<img src="animations/ani1.gif" alt="Particles in Motion" width="500" style="display: block; margin: 100 auto">
 
 2. Orbital Physics: This model applies Newton's Law of Gravitation to simulate the physics of interacting bodies. By visualizing this, we can begin to can gain insights into the complex dynamics of interacting systems.
 ![Orbital Physics A](animations/ani2a.gif)
