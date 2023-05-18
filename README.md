@@ -3,9 +3,7 @@ Particle Simulation Playground: Exploring Random Motion, Interacting Bodies, and
 
 ## Motivation
 
-This project was developed as a fun exercise to explore the basic principles of particle physics using matplotlib's animation method. It started as a personal endeavor, but I'm making it public because I thought it might have merit as a fun-project/educational-resource for others as well. 
-
-The models are presented sequentially in a Jupyter Notebook. Feel free to explore, experiment, and have fun with the code!
+This project was developed as a fun exercise to explore the basic principles of particle physics using numpy & matplotlib. It started as a personal endeavor, but I thought it might have merit as a fun-project/educational-resource for others as well. Feel free to explore, experiment, and have fun with the code!
 
 ## Models
 
@@ -17,8 +15,8 @@ The jupyter notebook includes the following models:
 
 ## Getting Started
 
-To run these simulation models, you'll need the following:
+To run the notebook, you'll need:
 
 - Python 3.x
 - Jupyter Notebook
-- Required Python packages (specified in the notebook files)
+- Numpy + Matplotlib
